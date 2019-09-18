@@ -10,7 +10,7 @@ public class myHomeworkToLesson3 {
         Scanner scannerX = new Scanner(System.in);
         do {
             int x = getRandomNumber();
-            System.out.println("ответ для проверки:7" + x);
+            System.out.println("ответ для проверки:" + x);
             System.out.println("Угадайте число от 0 до 9");
             for (int i = 0; i < 3; i++) {
                 sc = scannerX.nextInt();
