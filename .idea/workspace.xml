@@ -43,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.myHomeworkToLesson5">
+  <component name="RunManager" selected="Application.myHomeworkToLesson6">
     <configuration name="myHomeorkToLesson4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson4.myHomeorkToLesson4" />
       <module name="JAVA.git" />
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="myHomeworkToLesson3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.myHomeworkToLesson3" />
+    <configuration name="myHomeworkToLesson5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson5.myHomeworkToLesson5" />
       <module name="JAVA.git" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson3.*" />
+          <option name="PATTERN" value="lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="myHomeworkToLesson5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson5.myHomeworkToLesson5" />
+    <configuration name="myHomeworkToLesson6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson6.myHomeworkToLesson6" />
       <module name="JAVA.git" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson5.*" />
+          <option name="PATTERN" value="lesson6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.myHomeworkToLesson6" />
         <item itemvalue="Application.myHomeworkToLesson5" />
         <item itemvalue="Application.myHomeorkToLesson4" />
         <item itemvalue="Application.myHomeorkToLesson4XOGame" />
         <item itemvalue="Application.task2" />
-        <item itemvalue="Application.myHomeworkToLesson3" />
       </list>
     </recent_temporary>
   </component>
